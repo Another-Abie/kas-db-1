@@ -1,0 +1,25 @@
+{
+    "kas": [
+        {
+            "id": "2601241",
+            "type": "income",
+            "date": "26-01-2024",
+            "user": "abi",
+            "value": 15000
+        },
+        {
+            "id": "2601242",
+            "type": "income",
+            "date": "26-01-2024",
+            "user": "rahel",
+            "value": 10000
+        },
+        {
+            "id": "2901241",
+            "type": "income",
+            "date": "29-01-2024",
+            "user": "abi",
+            "value": 5000
+        }
+    ]
+}
