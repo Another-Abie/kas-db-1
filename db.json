@@ -36,12 +36,19 @@
             "value": 10000
         },
         {
-            "id": "0802242",
+            "id": "080224",
             "type": "outcome",
             "date": "08-02-2024",
             "desc": "Beli Tiket Film \"Agak Laen\" Di CCM",
             "user": "",
             "value": 50000
-        }
+        },
+        {
+            "id": "1902241",
+            "type": "income",
+            "date": "19-02-2024",
+            "user": "abi",
+            "value": 10000
+        },
 ]
 }
