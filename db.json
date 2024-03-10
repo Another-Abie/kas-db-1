@@ -49,6 +49,14 @@
             "date": "19-02-2024",
             "user": "abi",
             "value": 10000
-        }
+        },
+        {
+            "id": "090324",
+            "type": "outcome",
+            "date": "09-03-2024",
+            "desc": "Nambahin Buat Makan \"Marugame Udon\"",
+            "user": "",
+            "value": 10000
+        },
 ]
 }
